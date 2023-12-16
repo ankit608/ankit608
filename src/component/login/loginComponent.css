@@ -1,0 +1,41 @@
+.component_login {
+  border-radius: 10px;
+  padding: 20px;
+  width: 436px;
+  height: 496px;
+  border: 1px solid #ffffff;
+  -webkit-box-shadow: 1px 3px 5px 5px rgba(61, 61, 61, 1);
+  -moz-box-shadow: 1px 3px 5px 5px rgba(61, 61, 61, 1);
+  box-shadow: 1px 3px 5px 5px rgba(61, 61, 61, 1);
+}
+
+div {
+  margin: 10px;
+}
+
+.App {
+  background-color: #081420;
+  height: 100vh;
+  width: 100vw;
+}
+.login_input {
+  width: 100%;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
+
+.Button_Login {
+  margin-top: 13px;
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 0px;
+  display: flex;
+
+  color: rgb(241, 241, 241);
+  justify-content: center;
+  border-radius: 10px;
+  background-color: #2eca34;
+}
